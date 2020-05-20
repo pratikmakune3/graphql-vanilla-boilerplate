@@ -13,6 +13,7 @@ I'll be using following tools to setup vanilla graphql project boilerplate
   - eslint / eslint-config-airbnb
   - nodemon
   - sequelize
+  - merge-graphql-schemas to make schema and resolvers modular and scalable
 
 yarn add --dev nodemon babel-cli babel-preset-env babel-preset-stage-3
 
