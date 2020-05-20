@@ -9,7 +9,6 @@ I'll be using following tools to setup vanilla graphql project boilerplate
   - body-parser
   - express
   - graphql
-  - graphql-tools
   - Babel for import, async await syntax support
   - eslint / eslint-config-airbnb
   - nodemon
