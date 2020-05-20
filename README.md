@@ -16,6 +16,7 @@ I'll be using following tools to setup vanilla graphql project boilerplate
   - merge-graphql-schemas to make schema and resolvers modular and scalable
 
 Babel plugins to get syntactic sugar of import, async await, spread operator ->
+
 yarn add --dev nodemon babel-cli babel-preset-env babel-preset-stage-3
 
 esLint setup - Advised to not set it up globally, install locallly
